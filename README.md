@@ -4,6 +4,6 @@ Assignment repository for UNT CSCE1015
 YOUR_EUID
 ## Favorite Food
 deo0061
-YOUR_EUID
+deo0061
 ## Favorite Food
 Pizza
